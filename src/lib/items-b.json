@@ -1,0 +1,187 @@
+[
+  {
+    "id": "nocturne-dining-6",
+    "title": "Bar Bites Flight",
+    "price": 38,
+    "description": "Shared small plates",
+    "category": "Bar",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 59,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Seating": "Evening service",
+      "Duration": "2\u20133 hours",
+      "Course": "Bar"
+    },
+    "options": [
+      "Table",
+      "Bar",
+      "Chef's counter"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Bar Bites Flight?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "nocturne-dining-7",
+    "title": "Midnight Dessert",
+    "price": 28,
+    "description": "Pastry + digestif",
+    "category": "Dessert",
+    "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 68,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Seating": "Evening service",
+      "Duration": "2\u20133 hours",
+      "Course": "Dessert"
+    },
+    "options": [
+      "Table",
+      "Bar",
+      "Chef's counter"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Midnight Dessert?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "nocturne-dining-8",
+    "title": "Garden Lunch",
+    "price": 64,
+    "description": "Seasonal prix fixe",
+    "category": "Lunch",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.3,
+    "reviews": 77,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Seating": "Evening service",
+      "Duration": "2\u20133 hours",
+      "Course": "Lunch"
+    },
+    "options": [
+      "Table",
+      "Bar",
+      "Chef's counter"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Garden Lunch?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "nocturne-dining-9",
+    "title": "Oyster Sequence",
+    "price": 72,
+    "description": "Six coasts, mignonette flight",
+    "category": "Raw",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 86,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Seating": "Evening service",
+      "Duration": "2\u20133 hours",
+      "Course": "Raw"
+    },
+    "options": [
+      "Table",
+      "Bar",
+      "Chef's counter"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Oyster Sequence?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "nocturne-dining-10",
+    "title": "Cellar Reserve",
+    "price": 160,
+    "description": "Rare bottle service",
+    "category": "Wine",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.5,
+    "reviews": 95,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Seating": "Evening service",
+      "Duration": "2\u20133 hours",
+      "Course": "Wine"
+    },
+    "options": [
+      "Table",
+      "Bar",
+      "Chef's counter"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Cellar Reserve?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  }
+]
