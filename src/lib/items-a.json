@@ -1,0 +1,187 @@
+[
+  {
+    "id": "nocturne-dining-1",
+    "title": "Tasting Menu",
+    "price": 128,
+    "description": "Seven courses, seasonal",
+    "category": "Tasting",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80",
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": 14,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Seating": "Evening service",
+      "Duration": "2\u20133 hours",
+      "Course": "Tasting"
+    },
+    "options": [
+      "Table",
+      "Bar",
+      "Chef's counter"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Tasting Menu?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "nocturne-dining-2",
+    "title": "Chef's Table",
+    "price": 220,
+    "description": "Private counter experience",
+    "category": "Chef",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 23,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Seating": "Evening service",
+      "Duration": "2\u20133 hours",
+      "Course": "Chef"
+    },
+    "options": [
+      "Table",
+      "Bar",
+      "Chef's counter"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Chef's Table?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "nocturne-dining-3",
+    "title": "Wine Pairing",
+    "price": 85,
+    "description": "Sommelier selection",
+    "category": "Wine",
+    "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=900&q=80",
+    "badge": "New",
+    "rating": 4.5,
+    "reviews": 32,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Seating": "Evening service",
+      "Duration": "2\u20133 hours",
+      "Course": "Wine"
+    },
+    "options": [
+      "Table",
+      "Bar",
+      "Chef's counter"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Wine Pairing?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "nocturne-dining-4",
+    "title": "Weekend Brunch",
+    "price": 54,
+    "description": "Saturday & Sunday seating",
+    "category": "Brunch",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.6,
+    "reviews": 41,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Seating": "Evening service",
+      "Duration": "2\u20133 hours",
+      "Course": "Brunch"
+    },
+    "options": [
+      "Table",
+      "Bar",
+      "Chef's counter"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Weekend Brunch?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "nocturne-dining-5",
+    "title": "Private Room Deposit",
+    "price": 400,
+    "description": "Up to 12 guests",
+    "category": "Private",
+    "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.7,
+    "reviews": 50,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Seating": "Evening service",
+      "Duration": "2\u20133 hours",
+      "Course": "Private"
+    },
+    "options": [
+      "Table",
+      "Bar",
+      "Chef's counter"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Private Room Deposit?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only \u2014 no real charges or refunds."
+      }
+    ]
+  }
+]
